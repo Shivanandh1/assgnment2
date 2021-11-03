@@ -1,0 +1,8 @@
+Student classname----:7th
+Student Name ------- :shiva
+Biology marks--------:76
+Student section------:b
+Maths marks ---------:89
+Physics marks ------ :89
+shivaRankposition-------:1
+Total marks of student:254
